@@ -1,11 +1,19 @@
 title: Priyanka Gupta # your name (or website title) here
 logo: "/images/WhatsApp Image 2021-11-15 at 8.54.35 PM.jpeg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/priyanka-gupta-849158a0/">LinkedIn</a> |
+  <a href="https://github.com/Priyanka-Gupta2021">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  Data Science Enthusiast
   <br><br>
-  Second description 
+  Manager-Analytics and Reporting 
+  Goddres Pharmaceuticals
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  </p>
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-145578661-1 # Google Analytics tracking ID
